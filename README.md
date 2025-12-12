@@ -2,7 +2,7 @@
 This project focuses on building a Machine Learning–based Fraud Detection System that identifies suspicious financial transactions using statistical analysis and classification algorithms.
 Fraud Detection using Machine Learning
 
-The dataset includes transaction details such as amount, transaction type, merchant category, country, and time (hour).
+# The dataset includes transaction details such as amount, transaction type, merchant category, country, and time (hour).
 
 Features
 
@@ -12,7 +12,7 @@ Encoding categorical features
 
 Scaling numerical features
 
-Exploratory Data Analysis (EDA)
+# Exploratory Data Analysis (EDA)
 
 Pairplot
 
@@ -20,13 +20,13 @@ Scatter plot
 
 Correlation heatmap
 
-Model training using Random Forest Classifier
+# Model training using Random Forest Classifier
 
 Predicting new transaction fraud status
 
 Saving all plots and prediction results in the current folder
 
-Saved Outputs
+# Saved Outputs
 
 pairplot.png
 
